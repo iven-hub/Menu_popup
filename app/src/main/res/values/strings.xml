@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu_Popup</string>
+    <string name="resouce_options">Option</string>
+    <string name="favorito">favorito</string>
+    <string name="setings">setings</string>
+    <string name="favoritos">favoritos</string>
+</resources>
